@@ -1,0 +1,130 @@
+body{
+    background-color: white;
+    margin: 0px;
+}
+
+#top-container{
+    height:150px;
+}
+
+
+.topnav { overflow: hidden;
+          background-color: #303030;
+          margin-top: 0px;
+          padding: 20px;
+          text-align: center;
+         
+}
+
+.topnav a{ 
+    float: right;
+    color: white;
+    padding: 14px;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+          
+}
+.topnav a.name{
+    float: left;
+    font-size: 28px;
+    padding-left: 120px;
+    font-family: Georgia;
+}
+
+hr{
+    background-color: royalblue;
+    height: 4px;
+    border-width: 0px;
+    margin: auto;
+
+}
+.btn-blue {
+    background-color: royalblue;
+    color: white;
+    margin: 65px;
+    padding: 12px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 2px;
+    cursor: pointer;
+}
+.para1{
+    background-color: 	#303030;
+    color: white ;
+    height: 75px;
+    margin: auto;
+    position: relative;
+    padding: 5px 10px 5px 140px; 
+}
+.form-group{
+    background-color: 	#303030;
+    width: 30%;
+    left: 855px;
+    position: relative;
+    height: 15px;
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    cursor: pointer;
+    width: 25%;
+    bottom: 85px;
+}
+
+#para2{
+    color: royalblue;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    bottom: 60px;
+    position: relative;
+}
+
+p{
+    text-align: center;
+    bottom: 75px;
+    position: relative;
+}
+
+#para3{
+    text-align: center;
+    width: 70%px;
+    position: relative;
+    left: 10px;
+    bottom: 120px;
+    padding: 20px;
+    margin: auto;
+    border-spacing: 35px;
+}
+img{
+    text-align: center;
+    height: 140px;
+    width: 140px;
+
+}
+
+#form-type{
+    background-color: #303030;
+    color: white;
+    padding: auto;
+    height: 330px;
+    padding-top: 40px;
+    position: relative;
+    bottom: 130px;
+    padding-left: 60px;
+}
+#para4{
+    background-color: royalblue;
+    position: relative;
+    top: 2px;
+    height: 50px;
+    width: 105%;
+    padding-top: 25px;
+    right: 60px;
+
+}
+
+
